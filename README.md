@@ -33,8 +33,7 @@ click for hidden contents
 <summary>
         click for hidden contents
 </summary>
-
-        Sharmila is a 21 years old girl
+        MY GITHUB CLASS
 </details>
 <br>
 [git-hub]("https://github.com")<br>
