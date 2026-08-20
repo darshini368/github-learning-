@@ -1,15 +1,52 @@
-# Example: club guide <br>
-## Photography club Guide <br>
-### About the club <br>
-<p> The photography club helps members learn photography technique, share, ideas, and organize photo walks <\p> <br>
-<hr> <br>
-<b> membership <\b> <hr> <br>
-<p align="center" <br>
-<i> open to all students attend at least one meeting <br>
-How to draw table: <br>
-<br> <br>
+# Example:club guide
+#### Photography club guide
+### About the club
+<p> The photography club helps members learn photography techniques,share ideas, and organize photo</p>
+<hr>
+Membership<br>
+<p align="center">
+<i>        
+        -open to all members<br>
+        -Attend at least one meeting<br>
+        -Follow the club's code of conduct<br>
+<i>
+</p>
+<hr>
+-[]<br>
+*Item-1<br>
+*Item-2<br>
+<br>
+1.Item-3<br>
+2.Item-4<br>
+-[ ]Music<br>
+-[ ]Story Reading<br>
+-[ ]Watching Films<br>
+[Dog image][https://mrwallpaper.com/images/high/adorable-pink-cat-illustration-j70ya6dti5xbmdbe.webp]
+<br>
+| Name      | Age   | Qualification |
+|:----------|:-----:| ------------: |
+| Darshini  | 19    | BCA           |
+Creating a Drop Down
+click for hidden contents
+<b>Creating a Drop Down</b>
+<details>
+<summary>
+        click for hidden contents
+</summary>
 
-|  Name |  Age |  Qualification  | 
-|  ---  |  --- |   -----         | 
-| nithi |  17  |  BCA            | 
-|janani |  17  |  BCA            | 
+        Sharmila is a 21 years old girl
+</details>
+<br>
+[git-hub]("https://github.com")<br>
+[git-hub]("https://github.com" "click Title")<br>
+<mark>
+This is the github class
+</mark> 
+
+
+
+
+
+  
+
+      
